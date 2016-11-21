@@ -1,0 +1,6 @@
+The current repository is mantained and devolped by Davide Baroli < davide.baroli@uni.lu>
+All the copyright are intectual property of Davide Baroli and University of Luxembourg.
+
+"To “propagate” a work means to do anything with it that, without permission, would make you directly or secondarily liable for infringement under applicable copyright law, except executing it on a computer or modifying a private copy. Propagation includes copying, distribution (with or without modification), making available to the public, and in some countries other activities as well.
+"
+GPL Licence!
